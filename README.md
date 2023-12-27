@@ -12,6 +12,7 @@ Future:
    - Possible database collection
    - Adding more cities for more information
    - If paying for API I can collect more information
+   - Possible phone app development with this product
 
 -----------------------------------------------------------------------------------
 ***You must register for the free version of the API***
