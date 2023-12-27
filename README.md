@@ -1,6 +1,7 @@
 # WeatherApplication
 
 By: Kyler Conant
+
 This is a weather application that will work with a free API called "Meteomatics" 
    - The application will grab data from the 3 major cities in Arizona and show you the temperature(F) & Wind(m/s).
    - Data will be one single data frame and will also show locations.
