@@ -26,3 +26,5 @@ Future:
   - pip install pandas
 
 ------------------------------------------------------------------------------------
+
+The image presented in the Github is the application ran after midnight and before 1:00 am, it only shows one run of each city.
